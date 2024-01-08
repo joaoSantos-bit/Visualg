@@ -1,4 +1,4 @@
-# :computer: Visulalg
+# :computer: Visualg
 A sorting visualizer
 <br>
 <br>
