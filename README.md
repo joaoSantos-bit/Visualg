@@ -18,11 +18,11 @@ A sorting visualizer
 <br>
 
 ## :checkered_flag: Goals
-<p> This project has as its main goal to visualize how some of the most famous sorting algorithms work. </p>
+<p> This project exists to help people visualize how some of the most famous sorting algorithms work. </p>
 <br>
 
 ## Roadmap
-<p> In order to clone this project you must follow the steps bellow. </p>
+<p> In order to clone this project you must do the following. </p>
 <br>
 
 ~~~Shell
@@ -30,25 +30,33 @@ $ git clone https://github.com/joaoSantos-bit/Visulalg
 ~~~
 <br>
 
+<p> In order to run this project in your computer you must do the following. </p>
+<br>
+
+~~~Shell
+$ npm install
+~~~
+<br>
+
+~~~Shell
+$ npm start
+~~~
+<br>
+
 ## :rocket: Technologies
 <p>This project was developed using the following technologies.</p>
 
-* :white_check_mark: HTML
-* :white_check_mark: CSS
-* :white_check_mark: JavaScript
-
-<h4 align="center"> 
-	<p> :construction: Visulalg :rocket: is under construction... :construction: </p>
-</h4>
+*  HTML
+*  CSS
+*  JavaScript
+*  React
 
 ## Features
 
-- [x] Swap animations
-- [ ] comparison animations
-- [x] Bubblesort implementation
-- [x] Quicksort implementation
-- [x] Heapsort implementation
-- [ ] Mergesort implementation
+- [x] Bubblesort visualization
+- [x] Quicksort visualization
+- [x] Heapsort visualization
+- [x] Mergesort visualization
 
 <br>
 
