@@ -35,10 +35,6 @@ $ git clone https://github.com/joaoSantos-bit/Visulalg
 
 ~~~Shell
 $ npm install
-~~~
-<br>
-
-~~~Shell
 $ npm start
 ~~~
 <br>
