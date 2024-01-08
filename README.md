@@ -3,7 +3,7 @@ A sorting visualizer
 <br>
 <br>
 <div align="center">
-	<img src="[https://github.com/joaoSantos-bit/Visulalg/blob/main/mergesort-visualizer.gif](https://github.com/joaoSantos-bit/Visualg/blob/main/mergesort-visualizer.gif)" alt="mergesort visualizer introduction gif">
+	<img src="https://github.com/joaoSantos-bit/Visualg/blob/main/mergesort-visualizer.gif" alt="mergesort visualizer introduction gif">
 </div>
 <br>
 
